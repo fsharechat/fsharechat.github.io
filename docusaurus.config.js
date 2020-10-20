@@ -49,7 +49,7 @@ function variable() {
 }
 
 const config = {
-  title: "Time series data, faster",
+  title: "飞享即时通讯IM",
   tagline: "QuestDB is the fastest open source time series database",
   url: `https://${customFields.domain}`,
   baseUrl: "/",
