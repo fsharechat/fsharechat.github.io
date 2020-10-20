@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[136],{210:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"influxdb-line-protocol","name":"influxdb line protocol","count":2,"permalink":"/blog/tags/influxdb-line-protocol"}')}}]);
