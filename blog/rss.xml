@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>飞享即时通讯IM Blog</title>
+        <title>Time series data, faster Blog</title>
         <link>https://https://fsharechat.github.io/blog</link>
-        <description>飞享即时通讯IM Blog</description>
+        <description>Time series data, faster Blog</description>
         <lastBuildDate>Thu, 24 Sep 2020 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
