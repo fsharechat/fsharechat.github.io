@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://https://fsharechat.github.io/blog</id>
-    <title>Time series data, faster Blog</title>
+    <title>飞享IM-即时IM通讯系统  Blog</title>
     <updated>2019-12-19T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://https://fsharechat.github.io/blog"/>
-    <subtitle>Time series data, faster Blog</subtitle>
+    <subtitle>飞享IM-即时IM通讯系统  Blog</subtitle>
     <icon>https://https://fsharechat.github.io/img/favicon.png</icon>
-    <rights>Copyright © 2020 QuestDB</rights>
+    <rights>Copyright © 2020 Fsharechat</rights>
     <entry>
         <title type="html"><![CDATA[996的思考]]></title>
         <id>996的思考</id>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>Time series data, faster Blog</title>
+        <title>飞享IM-即时IM通讯系统  Blog</title>
         <link>https://https://fsharechat.github.io/blog</link>
-        <description>Time series data, faster Blog</description>
+        <description>飞享IM-即时IM通讯系统  Blog</description>
         <lastBuildDate>Thu, 19 Dec 2019 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <copyright>Copyright © 2020 QuestDB</copyright>
+        <copyright>Copyright © 2020 Fsharechat</copyright>
         <item>
             <title><![CDATA[996的思考]]></title>
             <link>https://https://fsharechat.github.io/blog/2019/12/19/996</link>
