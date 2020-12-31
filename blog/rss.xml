@@ -4,10 +4,17 @@
         <title>飞享IM-即时IM通讯系统  Blog</title>
         <link>https://https://fsharechat.github.io/blog</link>
         <description>飞享IM-即时IM通讯系统  Blog</description>
-        <lastBuildDate>Fri, 13 Nov 2020 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Dec 2020 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>Copyright © 2020 Fsharechat</copyright>
+        <item>
+            <title><![CDATA[2020技术总结与飞享IM项目规划发展]]></title>
+            <link>https://https://fsharechat.github.io/blog/2020/12/31/year-summary</link>
+            <guid>2020技术总结与飞享IM项目规划发展</guid>
+            <pubDate>Thu, 31 Dec 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img]]></description>
+        </item>
         <item>
             <title><![CDATA[使用vray进行网络链接代理进行网站访问]]></title>
             <link>https://https://fsharechat.github.io/blog/2020/11/13/vray</link>
